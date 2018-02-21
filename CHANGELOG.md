@@ -5,3 +5,4 @@
 - 2018-02-15 — feat(conversation-management): implement user tagging for better context tracking
 - 2018-02-19 — feat(auth): implement OAuth2 support for third-party logins
 - 2018-02-20 — feat(billing): implement subscription tier management for admin dashboard
+- 2018-02-21 — feat(auth): implement OAuth2 integration for enhanced user login options
