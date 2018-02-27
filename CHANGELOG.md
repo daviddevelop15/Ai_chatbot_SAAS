@@ -7,3 +7,4 @@
 - 2018-02-20 — feat(billing): implement subscription tier management for admin dashboard
 - 2018-02-21 — feat(auth): implement OAuth2 integration for enhanced user login options
 - 2018-02-26 — feat(auth): implement OAuth2 support for third-party integrations
+- 2018-02-27 — feat(auth): implement OAuth2 integration for third-party login options
