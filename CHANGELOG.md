@@ -14,3 +14,4 @@
 - 2018-03-13 — feat(auth): implement OAuth 2.0 for enhanced user authentication flow
 - 2018-03-14 — feat(auth): implement OAuth2 login for enhanced security options
 - 2018-03-16 — feat(auth): implement OAuth2 support for third-party integrations
+- 2018-03-19 — feat(conversation): add keyword-based routing for improved response accuracy
