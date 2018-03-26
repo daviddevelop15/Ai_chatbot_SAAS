@@ -17,3 +17,4 @@
 - 2018-03-19 — feat(conversation): add keyword-based routing for improved response accuracy
 - 2018-03-20 — feat(auth): implement OAuth2 support for third-party logins
 - 2018-03-23 — feat(auth): implement OAuth 2.0 support for improved user login experience
+- 2018-03-26 — feat(auth): implement OAuth2 login for increased security options
