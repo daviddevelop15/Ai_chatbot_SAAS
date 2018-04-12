@@ -22,3 +22,4 @@
 - 2018-04-04 — feat(auth): implement OAuth2 support for third-party integrations
 - 2018-04-06 — feat(auth): implement multi-factor authentication for enhanced security
 - 2018-04-09 — feat(auth): implement OAuth 2.0 support for secure user login
+- 2018-04-12 — feat(admin): implement user role management in the admin dashboard
