@@ -28,3 +28,4 @@
 - 2018-04-24 — feat(auth): implement OAuth 2.0 for third-party login options
 - 2018-04-25 — feat(auth): implement OAuth2 support for third-party logins
 - 2018-05-01 — feat(auth): implement multi-factor authentication for enhanced security
+- 2018-05-02 — feat(auth): implement OAuth2 support for improved user authentication
