@@ -33,3 +33,4 @@
 - 2018-05-10 — feat(auth): add two-factor authentication for enhanced security
 - 2018-05-11 — feat(auth): implement JWT for improved user authentication security
 - 2018-05-14 — feat(auth): implement OAuth2 for improved user authentication process
+- 2018-05-15 — feat(auth): implement OAuth2 support for third-party logins
