@@ -39,3 +39,4 @@
 - 2018-05-30 — feat(auth): implement OAuth2 support for user authentication flow
 - 2018-05-31 — feat(auth): implement OAuth 2.0 support for improved user login experience
 - 2018-06-06 — feat(auth): implement multi-factor authentication for user accounts
+- 2018-06-07 — feat(auth): implement OAuth 2.0 support for user authentication
