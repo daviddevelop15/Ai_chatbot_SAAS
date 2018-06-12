@@ -41,3 +41,4 @@
 - 2018-06-06 — feat(auth): implement multi-factor authentication for user accounts
 - 2018-06-07 — feat(auth): implement OAuth 2.0 support for user authentication
 - 2018-06-08 — feat(auth): implement OAuth 2.0 support for enhanced user security
+- 2018-06-12 — feat(chat): implement user-specific conversation history feature
