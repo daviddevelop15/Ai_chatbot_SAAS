@@ -46,3 +46,4 @@
 - 2018-06-15 — feat(auth): implement OAuth2 support for improved user authentication
 - 2018-06-19 — feat(auth): implement OAuth 2.0 support for third-party logins
 - 2018-06-20 — feat(auth): implement OAuth2 support for user authentication flow
+- 2018-06-25 — feat(admin): implement role-based access control for dashboard users
