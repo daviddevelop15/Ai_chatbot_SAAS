@@ -48,3 +48,4 @@
 - 2018-06-20 — feat(auth): implement OAuth2 support for user authentication flow
 - 2018-06-25 — feat(admin): implement role-based access control for dashboard users
 - 2018-06-27 — feat(conversation): implement natural language understanding for chatbot interactions
+- 2018-06-29 — feat(auth): add two-factor authentication support for user accounts
