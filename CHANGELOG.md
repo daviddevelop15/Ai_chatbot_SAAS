@@ -53,3 +53,4 @@
 - 2018-07-04 — feat(auth): implement multi-factor authentication for user accounts
 - 2018-07-05 — feat(auth): implement OAuth2 support for third-party login options
 - 2018-07-11 — feat(auth): implement OAuth2.0 support for enhanced user login options
+- 2018-07-13 — feat(auth): implement OAuth2 integration for enhanced security options
