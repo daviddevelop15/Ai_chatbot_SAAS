@@ -56,3 +56,4 @@
 - 2018-07-13 — feat(auth): implement OAuth2 integration for enhanced security options
 - 2018-07-18 — feat(auth): implement OAuth 2.0 support for enhanced user login experience
 - 2018-07-20 — feat(auth): implement OAuth2 login for improved user authentication flow
+- 2018-07-25 — feat(chat): add support for multilingual responses in chatbot engine
