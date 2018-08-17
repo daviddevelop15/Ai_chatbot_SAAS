@@ -65,3 +65,4 @@
 - 2018-08-10 — feat(conversation): add support for rich media attachments in chats
 - 2018-08-13 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2018-08-16 — feat(auth): implement OAuth2 login for enhanced user authentication
+- 2018-08-17 — feat(auth): implement social login options for improved user access
