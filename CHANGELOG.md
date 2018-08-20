@@ -66,3 +66,4 @@
 - 2018-08-13 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2018-08-16 — feat(auth): implement OAuth2 login for enhanced user authentication
 - 2018-08-17 — feat(auth): implement social login options for improved user access
+- 2018-08-20 — feat(auth): implement OAuth2 login for improved user authentication
