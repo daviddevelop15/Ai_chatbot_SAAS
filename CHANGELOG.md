@@ -78,3 +78,4 @@
 - 2018-09-17 — feat(auth): implement two-factor authentication for increased security
 - 2018-09-18 — feat(auth): implement two-factor authentication for user accounts
 - 2018-09-19 — feat(auth): implement OAuth2 login to enhance user authentication process
+- 2018-09-25 — feat(auth): implement OAuth2.0 support for third-party logins
