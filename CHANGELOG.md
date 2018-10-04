@@ -83,3 +83,4 @@
 - 2018-09-28 — feat(auth): implement OAuth2 login for improved user authentication
 - 2018-10-01 — feat(auth): implement OAuth2 support for improved user authentication
 - 2018-10-02 — feat(auth): implement OAuth2 support for user authentication methods
+- 2018-10-04 — feat(auth): implement OAuth2 integration for social logins
