@@ -86,3 +86,4 @@
 - 2018-10-04 — feat(auth): implement OAuth2 integration for social logins
 - 2018-10-09 — feat(auth): implement OAuth2 support for third-party logins
 - 2018-10-11 — feat(chat): integrate multi-language support for chatbot interactions
+- 2018-10-12 — feat(auth): implement OAuth2 for third-party login options
