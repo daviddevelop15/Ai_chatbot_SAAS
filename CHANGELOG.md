@@ -101,3 +101,4 @@
 - 2018-11-15 — feat(auth): implement OAuth2 support for third-party logins
 - 2018-11-16 — feat(auth): implement OAuth 2.0 support for third-party logins
 - 2018-11-19 — feat(auth): implement OAuth 2.0 support for user authentication
+- 2018-11-21 — feat(auth): implement two-factor authentication for enhanced security
