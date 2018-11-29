@@ -105,3 +105,4 @@
 - 2018-11-23 — feat(auth): integrate OAuth 2.0 for improved user authentication security
 - 2018-11-27 — feat(auth): implement passwordless login for improved user experience
 - 2018-11-28 — feat(auth): implement OAuth 2.0 support for third-party logins
+- 2018-11-29 — feat(auth): implement OAuth2 login for improved user authentication
