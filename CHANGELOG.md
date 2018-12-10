@@ -109,3 +109,4 @@
 - 2018-12-04 — feat(chatbot): implement support for personalized conversation prompts
 - 2018-12-06 — feat(auth): implement multi-factor authentication for improved security
 - 2018-12-07 — feat(auth): implement OAuth2 login for improved user authentication
+- 2018-12-10 — feat(auth): implement OAuth2 support for third-party sign-ins
