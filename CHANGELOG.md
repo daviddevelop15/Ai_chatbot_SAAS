@@ -111,3 +111,4 @@
 - 2018-12-07 — feat(auth): implement OAuth2 login for improved user authentication
 - 2018-12-10 — feat(auth): implement OAuth2 support for third-party sign-ins
 - 2018-12-13 — feat(admin): add user role management for enhanced access control
+- 2018-12-17 — feat(auth): implement OAuth2 support for external login options
