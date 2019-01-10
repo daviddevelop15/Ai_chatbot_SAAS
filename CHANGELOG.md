@@ -119,3 +119,4 @@
 - 2019-01-03 — feat(auth): implement OAuth 2.0 support for enhanced user login experience
 - 2019-01-04 — feat(conversation): add support for multi-language chat responses
 - 2019-01-07 — feat(auth): implement OAuth2 login for enhanced user authentication
+- 2019-01-10 — feat(auth): implement OAuth2 support for enhanced user authentication
