@@ -122,3 +122,4 @@
 - 2019-01-10 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2019-01-11 — feat(auth): implement OAuth2 authentication flow for user login
 - 2019-01-16 — feat(auth): implement OAuth2 login for enhanced user authentication
+- 2019-01-17 — feat(auth): implement OAuth 2.0 support for social logins
