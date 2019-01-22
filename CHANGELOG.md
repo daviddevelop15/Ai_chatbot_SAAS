@@ -125,3 +125,4 @@
 - 2019-01-17 — feat(auth): implement OAuth 2.0 support for social logins
 - 2019-01-18 — feat(auth): implement OAuth2 support for third-party logins
 - 2019-01-21 — feat(auth): implement OAuth 2.0 for improved user authentication flow
+- 2019-01-22 — feat(chat): implement new NLP model for improved user responses
