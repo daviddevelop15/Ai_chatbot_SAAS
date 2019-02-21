@@ -136,3 +136,4 @@
 - 2019-02-13 — feat(auth): implement OAuth2.0 support for third-party logins
 - 2019-02-14 — feat(auth): implement OAuth2 support for third-party sign-in options
 - 2019-02-19 — feat(admin): add reporting feature for conversation analytics in dashboard
+- 2019-02-21 — feat(auth): implement OAuth2 support for improved user authentication
