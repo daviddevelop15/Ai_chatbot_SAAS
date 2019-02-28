@@ -138,3 +138,4 @@
 - 2019-02-19 — feat(admin): add reporting feature for conversation analytics in dashboard
 - 2019-02-21 — feat(auth): implement OAuth2 support for improved user authentication
 - 2019-02-25 — feat(auth): implement OAuth2.0 for enhanced user authentication flow
+- 2019-02-28 — feat(auth): implement OAuth2 login for enhanced user authentication
