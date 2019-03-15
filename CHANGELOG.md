@@ -143,3 +143,4 @@
 - 2019-03-06 — feat(auth): implement OAuth integration for third-party sign-ins
 - 2019-03-08 — feat(billing): implement subscription tier for premium chatbot features
 - 2019-03-12 — feat(auth): implement OAuth 2.0 support for enhanced security options
+- 2019-03-15 — feat(auth): implement password recovery flow for user accounts
