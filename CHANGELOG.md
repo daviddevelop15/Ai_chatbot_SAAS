@@ -146,3 +146,4 @@
 - 2019-03-15 — feat(auth): implement password recovery flow for user accounts
 - 2019-03-19 — feat(auth): implement OAuth2 support for third-party logins
 - 2019-03-20 — feat(auth): implement OAuth 2.0 support for enhanced security options
+- 2019-03-22 — feat(auth): implement OAuth 2.0 support for enhanced user security
