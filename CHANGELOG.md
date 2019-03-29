@@ -148,3 +148,4 @@
 - 2019-03-20 — feat(auth): implement OAuth 2.0 support for enhanced security options
 - 2019-03-22 — feat(auth): implement OAuth 2.0 support for enhanced user security
 - 2019-03-27 — feat(auth): add email confirmation step to user registration flow
+- 2019-03-29 — feat(auth): implement OAuth2 login for improved user authentication
