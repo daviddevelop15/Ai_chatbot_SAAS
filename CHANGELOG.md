@@ -156,3 +156,4 @@
 - 2019-04-12 — feat(auth): implement JWT authentication for enhanced security measures
 - 2019-04-15 — feat(auth): implement OAuth 2.0 support for improved user login experience
 - 2019-04-18 — feat(auth): implement OAuth 2.0 support for improved user login experience
+- 2019-04-19 — feat(auth): implement OAuth2 support for third-party login options
