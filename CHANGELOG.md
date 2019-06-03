@@ -172,3 +172,4 @@
 - 2019-05-24 — feat(auth): add OAuth2 support for third-party login options
 - 2019-05-28 — feat(conversation): add sentiment analysis to chat responses for tenants
 - 2019-05-30 — feat(auth): implement OAuth2 login for improved user authentication
+- 2019-06-03 — feat(auth): implement two-factor authentication for user accounts
