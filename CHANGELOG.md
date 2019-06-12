@@ -176,3 +176,4 @@
 - 2019-06-04 — feat(auth): implement OAuth2.0 support for enhanced security options
 - 2019-06-05 — feat(auth): implement OAuth 2.0 for improved user authentication flow
 - 2019-06-11 — feat(auth): implement OAuth2 support for third-party login options
+- 2019-06-12 — feat(billing): implement subscription tier management for users
