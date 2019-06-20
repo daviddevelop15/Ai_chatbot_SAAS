@@ -178,3 +178,4 @@
 - 2019-06-11 — feat(auth): implement OAuth2 support for third-party login options
 - 2019-06-12 — feat(billing): implement subscription tier management for users
 - 2019-06-13 — feat(auth): implement OAuth2 support for third-party logins
+- 2019-06-20 — feat(auth): implement OAuth2 support for third-party sign-ins
