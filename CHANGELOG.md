@@ -182,3 +182,4 @@
 - 2019-06-21 — feat(auth): implement OAuth2 support for third-party logins
 - 2019-06-24 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2019-06-26 — feat(auth): implement OAuth2 support for third-party logins
+- 2019-07-03 — feat(auth): implement OAuth2.0 for enhanced user authentication flow
