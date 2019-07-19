@@ -188,3 +188,4 @@
 - 2019-07-10 — feat(auth): implement OAuth2 support for improved user authentication
 - 2019-07-11 — feat(auth): implement OAuth2 login for enhanced user authentication
 - 2019-07-18 — feat(auth): implement OAuth 2.0 support for improved user login security
+- 2019-07-19 — feat(auth): implement OAuth2 support for third-party login providers
