@@ -205,3 +205,4 @@
 - 2019-09-03 — feat(auth): implement OAuth2 support for third-party logins
 - 2019-09-04 — feat(auth): add two-factor authentication for improved user security
 - 2019-09-05 — feat(auth): implement OAuth 2.0 for improved user authentication flow
+- 2019-09-09 — feat(chat): add conversation tagging for better organization and retrieval
