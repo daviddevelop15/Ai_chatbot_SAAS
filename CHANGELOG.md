@@ -218,3 +218,4 @@
 - 2019-10-04 — feat(auth): implement OAuth2 support for third-party sign-ins
 - 2019-10-07 — feat(auth): implement OAuth2 support for third-party logins
 - 2019-10-08 — feat(auth): implement multi-factor authentication for enhanced security
+- 2019-10-11 — feat(auth): implement OAuth2 support for third-party logins
