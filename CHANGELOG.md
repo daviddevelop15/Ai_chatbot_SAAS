@@ -224,3 +224,4 @@
 - 2019-10-21 — feat(auth): implement OAuth2 login for enhanced user authentication
 - 2019-10-22 — feat(auth): implement OAuth2 integration for third-party login options
 - 2019-10-24 — feat(auth): implement OAuth2 login flow for enhanced security options
+- 2019-10-30 — feat(auth): implement JWT-based authentication for better security
