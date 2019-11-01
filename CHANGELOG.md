@@ -226,3 +226,4 @@
 - 2019-10-24 — feat(auth): implement OAuth2 login flow for enhanced security options
 - 2019-10-30 — feat(auth): implement JWT-based authentication for better security
 - 2019-10-31 — feat(admin): implement user role management in the dashboard interface
+- 2019-11-01 — feat(auth): implement OAuth2 support for third-party sign-ins
