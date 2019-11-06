@@ -228,3 +228,4 @@
 - 2019-10-31 — feat(admin): implement user role management in the dashboard interface
 - 2019-11-01 — feat(auth): implement OAuth2 support for third-party sign-ins
 - 2019-11-04 — feat(auth): implement OAuth2 support for third-party logins
+- 2019-11-06 — feat(auth): implement single sign-on for enhanced user experience
