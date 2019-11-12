@@ -230,3 +230,4 @@
 - 2019-11-04 — feat(auth): implement OAuth2 support for third-party logins
 - 2019-11-06 — feat(auth): implement single sign-on for enhanced user experience
 - 2019-11-07 — feat(auth): implement OAuth 2.0 support for better user authentication
+- 2019-11-12 — feat(auth): implement multi-factor authentication for added security
