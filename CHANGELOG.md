@@ -240,3 +240,4 @@
 - 2019-11-28 — feat(auth): implement OAuth2 login for improved user authentication
 - 2019-12-02 — feat(conversation): add support for custom user intents in chat flow
 - 2019-12-03 — feat(auth): implement OAuth2 login for improved user authentication
+- 2019-12-09 — feat(auth): implement OAuth2 support for third-party login options
