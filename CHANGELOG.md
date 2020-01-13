@@ -252,3 +252,4 @@
 - 2020-01-06 — feat(auth): add multi-factor authentication for enhanced security
 - 2020-01-07 — feat(auth): implement OAuth2 support for third-party authentication
 - 2020-01-09 — feat(auth): implement OAuth2.0 login for improved user authentication
+- 2020-01-13 — feat(auth): implement OAuth 2.0 support for third-party logins
