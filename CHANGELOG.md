@@ -254,3 +254,4 @@
 - 2020-01-09 — feat(auth): implement OAuth2.0 login for improved user authentication
 - 2020-01-13 — feat(auth): implement OAuth 2.0 support for third-party logins
 - 2020-01-15 — feat(auth): enhance login flow with multi-factor authentication support
+- 2020-01-20 — feat: add conversation scheduling feature for improved user engagement
