@@ -257,3 +257,4 @@
 - 2020-01-20 — feat: add conversation scheduling feature for improved user engagement
 - 2020-01-22 — feat(auth): implement OAuth2 support for third-party logins
 - 2020-01-30 — feat(billing): implement subscription tier management for tenants
+- 2020-01-31 — feat(auth): implement OAuth2 support for third-party logins
