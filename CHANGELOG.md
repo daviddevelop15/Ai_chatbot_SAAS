@@ -278,3 +278,4 @@
 - 2020-03-23 — feat(auth): implement OAuth2 support for third-party logins
 - 2020-03-25 — feat(auth): implement OAuth2 login for enhanced user security
 - 2020-03-26 — feat(billing): implement subscription tier functionality for tenants
+- 2020-04-02 — feat(auth): implement OAuth2 support for user authentication flow
