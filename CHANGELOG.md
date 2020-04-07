@@ -280,3 +280,4 @@
 - 2020-03-26 — feat(billing): implement subscription tier functionality for tenants
 - 2020-04-02 — feat(auth): implement OAuth2 support for user authentication flow
 - 2020-04-03 — feat(conversation): add support for multi-language responses in chatbot
+- 2020-04-07 — feat(auth): implement multi-factor authentication for enhanced security
