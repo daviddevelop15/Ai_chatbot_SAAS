@@ -282,3 +282,4 @@
 - 2020-04-03 — feat(conversation): add support for multi-language responses in chatbot
 - 2020-04-07 — feat(auth): implement multi-factor authentication for enhanced security
 - 2020-04-08 — feat(auth): implement OAuth 2.0 support for improved user login experience
+- 2020-04-09 — feat(auth): implement OAuth2 support for third-party logins
