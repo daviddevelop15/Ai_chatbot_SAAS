@@ -284,3 +284,4 @@
 - 2020-04-08 — feat(auth): implement OAuth 2.0 support for improved user login experience
 - 2020-04-09 — feat(auth): implement OAuth2 support for third-party logins
 - 2020-04-15 — feat(auth): implement OAuth2 authentication for enhanced security
+- 2020-04-17 — feat: implement user authentication process for chatbot access
