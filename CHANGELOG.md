@@ -286,3 +286,4 @@
 - 2020-04-15 — feat(auth): implement OAuth2 authentication for enhanced security
 - 2020-04-17 — feat: implement user authentication process for chatbot access
 - 2020-04-21 — feat(auth): implement OAuth 2.0 support for user authentication options
+- 2020-04-23 — feat: add conversation analytics dashboard for improved tenant insights
