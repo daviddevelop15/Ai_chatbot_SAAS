@@ -288,3 +288,4 @@
 - 2020-04-21 — feat(auth): implement OAuth 2.0 support for user authentication options
 - 2020-04-23 — feat: add conversation analytics dashboard for improved tenant insights
 - 2020-04-28 — feat(auth): implement OAuth2.0 for enhanced user authentication flow
+- 2020-05-01 — feat(auth): implement OAuth2 support for third-party login options
