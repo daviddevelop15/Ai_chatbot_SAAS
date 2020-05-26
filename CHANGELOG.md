@@ -298,3 +298,4 @@
 - 2020-05-20 — feat(conversation): add sentiment analysis feature to chat responses
 - 2020-05-21 — feat(auth): implement OAuth 2.0 support for third-party logins
 - 2020-05-22 — feat(auth): implement OAuth2 support for improved user authentication
+- 2020-05-26 — feat(auth): implement OAuth2 support for third-party logins
