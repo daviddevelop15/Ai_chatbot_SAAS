@@ -305,3 +305,4 @@
 - 2020-06-09 — feat(auth): implement OAuth 2.0 support for third-party logins
 - 2020-06-11 — feat(billing): implement tiered pricing plans for user subscriptions
 - 2020-06-12 — feat(auth): implement OAuth2 support for third-party logins
+- 2020-06-16 — feat(auth): implement OAuth2 support for third-party authentication
