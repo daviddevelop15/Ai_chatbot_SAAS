@@ -310,3 +310,4 @@
 - 2020-06-22 — feat(auth): implement OAuth 2.0 support for third-party logins
 - 2020-06-25 — feat(auth): implement OAuth 2.0 support for enhanced security options
 - 2020-06-26 — feat(auth): implement password reset feature for user accounts
+- 2020-06-30 — feat(auth): implement OAuth 2.0 integration for enhanced security
