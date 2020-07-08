@@ -314,3 +314,4 @@
 - 2020-07-02 — feat(admin): implement real-time conversation updates for agents
 - 2020-07-06 — feat(auth): implement OAuth 2.0 support for third-party logins
 - 2020-07-07 — feat(auth): implement OAuth for improved user authentication flow
+- 2020-07-08 — feat(auth): implement OAuth2 support for third-party logins
