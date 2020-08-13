@@ -326,3 +326,4 @@
 - 2020-08-04 — feat(auth): implement OAuth2 integration for enhanced user security
 - 2020-08-07 — feat(auth): implement OAuth2 integration for smoother user sign-ups
 - 2020-08-12 — feat(auth): implement OAuth 2.0 for improved user authentication flow
+- 2020-08-13 — feat(chatbot): implement multi-language support for conversations
