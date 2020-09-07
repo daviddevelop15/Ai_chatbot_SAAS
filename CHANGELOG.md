@@ -335,3 +335,4 @@
 - 2020-08-28 — feat(auth): implement OAuth2 login for enhanced user authentication
 - 2020-08-31 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2020-09-02 — feat(auth): implement OAuth2 login for improved user authentication
+- 2020-09-07 — feat(auth): implement OAuth2 support for enhanced user authentication
