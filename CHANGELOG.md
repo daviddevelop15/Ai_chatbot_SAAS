@@ -339,3 +339,4 @@
 - 2020-09-11 — feat(billing): implement subscription tier management in admin dashboard
 - 2020-09-15 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2020-09-16 — feat(auth): implement OAuth2.0 support for enhanced user login security
+- 2020-09-21 — feat(auth): enhance login flow with JWT token expiration handling
