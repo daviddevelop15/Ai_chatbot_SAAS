@@ -341,3 +341,4 @@
 - 2020-09-16 — feat(auth): implement OAuth2.0 support for enhanced user login security
 - 2020-09-21 — feat(auth): enhance login flow with JWT token expiration handling
 - 2020-09-24 — feat(auth): implement OAuth2 support for third-party login options
+- 2020-09-29 — feat: add user authentication flow for seamless tenant onboarding
