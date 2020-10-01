@@ -343,3 +343,4 @@
 - 2020-09-24 — feat(auth): implement OAuth2 support for third-party login options
 - 2020-09-29 — feat: add user authentication flow for seamless tenant onboarding
 - 2020-09-30 — feat(auth): implement OAuth2 support for third-party logins
+- 2020-10-01 — feat(auth): implement OAuth 2.0 support for third-party logins
