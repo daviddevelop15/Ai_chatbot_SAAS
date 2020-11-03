@@ -354,3 +354,4 @@
 - 2020-10-28 — feat(auth): implement OAuth2 login for improved user authentication
 - 2020-10-30 — feat(auth): implement OAuth2 support for third-party logins
 - 2020-11-02 — feat(auth): implement new user role management for enhanced security
+- 2020-11-03 — feat(auth): implement OAuth2 login for improved user authentication
