@@ -363,3 +363,4 @@
 - 2020-11-20 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2020-11-23 — feat(auth): implement JWT authentication for improved session security
 - 2020-11-24 — feat(billing): implement subscription management for tenant accounts
+- 2020-11-27 — feat(auth): implement OAuth2 support for enhanced user authentication
