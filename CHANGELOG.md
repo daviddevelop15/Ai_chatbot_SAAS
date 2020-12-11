@@ -368,3 +368,4 @@
 - 2020-12-02 — feat(auth): implement OAuth2 login for improved user authentication
 - 2020-12-07 — feat(auth): implement OAuth2 support for third-party logins
 - 2020-12-10 — feat(conversations): add support for threaded replies in chat interface
+- 2020-12-11 — feat(auth): implement OAuth2 support for enhanced user authentication
