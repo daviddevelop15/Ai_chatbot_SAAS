@@ -373,3 +373,4 @@
 - 2020-12-16 — feat(auth): implement OAuth2 authentication for improved security
 - 2020-12-18 — feat(auth): implement OAuth 2.0 for improved user authentication flow
 - 2020-12-23 — feat(auth): implement OAuth 2.0 for enhanced user authentication options
+- 2020-12-25 — feat(auth): implement OAuth2.0 for enhanced user authentication flow
