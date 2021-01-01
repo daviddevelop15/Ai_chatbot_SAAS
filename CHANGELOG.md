@@ -375,3 +375,4 @@
 - 2020-12-23 — feat(auth): implement OAuth 2.0 for enhanced user authentication options
 - 2020-12-25 — feat(auth): implement OAuth2.0 for enhanced user authentication flow
 - 2020-12-28 — feat(auth): implement OAuth2 support for improved user authentication
+- 2021-01-01 — feat(auth): implement multi-factor authentication for added security
