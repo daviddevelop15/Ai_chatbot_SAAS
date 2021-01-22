@@ -381,3 +381,4 @@
 - 2021-01-11 — feat(auth): implement OAuth 2.0 for enhanced user authentication flow
 - 2021-01-13 — feat(auth): implement OAuth2 login for improved user authentication
 - 2021-01-21 — feat(auth): implement OAuth 2.0 authentication for enhanced security
+- 2021-01-22 — feat(auth): implement password recovery feature for users
