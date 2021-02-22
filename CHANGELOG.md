@@ -393,3 +393,4 @@
 - 2021-02-16 — feat(auth): implement OAuth2 support for third-party logins
 - 2021-02-17 — feat: add support for multi-language responses in chatbot engine
 - 2021-02-19 — feat(admin): add user role management to enhance security features
+- 2021-02-22 — feat(auth): implement OAuth 2.0 for improved user login experience
