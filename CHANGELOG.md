@@ -396,3 +396,4 @@
 - 2021-02-22 — feat(auth): implement OAuth 2.0 for improved user login experience
 - 2021-02-25 — feat(auth): implement OAuth2 support for third-party login options
 - 2021-02-26 — feat(auth): implement OAuth2 support for third-party logins
+- 2021-03-02 — feat(auth): implement OAuth2 support for enhanced user authentication
