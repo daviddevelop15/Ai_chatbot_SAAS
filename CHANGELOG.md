@@ -410,3 +410,4 @@
 - 2021-04-02 — feat(auth): implement OAuth2 support for third-party integrations
 - 2021-04-05 — feat(auth): implement OAuth2 support for third-party logins
 - 2021-04-08 — feat(auth): implement OAuth2 integration for improved user login experience
+- 2021-04-12 — feat(auth): implement OAuth2 login for enhanced user security
