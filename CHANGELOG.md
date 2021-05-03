@@ -417,3 +417,4 @@
 - 2021-04-22 — feat(auth): implement OAuth2 login flow for improved security options
 - 2021-04-26 — feat(auth): implement OAuth 2.0 for improved user authentication flow
 - 2021-04-28 — feat(conversations): implement real-time message notifications for users
+- 2021-05-03 — feat(billing): implement recurring billing feature for tenants
