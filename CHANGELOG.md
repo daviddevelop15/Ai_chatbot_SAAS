@@ -419,3 +419,4 @@
 - 2021-04-28 — feat(conversations): implement real-time message notifications for users
 - 2021-05-03 — feat(billing): implement recurring billing feature for tenants
 - 2021-05-05 — feat(auth): implement OAuth2 support for third-party integrations
+- 2021-05-06 — feat(auth): implement OAuth2 support for third-party login options
