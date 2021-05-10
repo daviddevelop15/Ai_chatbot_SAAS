@@ -420,3 +420,4 @@
 - 2021-05-03 — feat(billing): implement recurring billing feature for tenants
 - 2021-05-05 — feat(auth): implement OAuth2 support for third-party integrations
 - 2021-05-06 — feat(auth): implement OAuth2 support for third-party login options
+- 2021-05-10 — feat(auth): enhance login flow with 2FA for improved security
