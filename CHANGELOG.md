@@ -423,3 +423,4 @@
 - 2021-05-10 — feat(auth): enhance login flow with 2FA for improved security
 - 2021-05-12 — feat: add user analytics dashboard for better tenant insights
 - 2021-05-17 — feat(auth): implement OAuth2 support for user authentication flow
+- 2021-05-18 — feat: add multi-language support for chatbot responses and billing info
