@@ -425,3 +425,4 @@
 - 2021-05-17 — feat(auth): implement OAuth2 support for user authentication flow
 - 2021-05-18 — feat: add multi-language support for chatbot responses and billing info
 - 2021-05-25 — feat(auth): implement OAuth2 for third-party login support
+- 2021-05-26 — feat(auth): implement OAuth2.0 support for third-party logins
