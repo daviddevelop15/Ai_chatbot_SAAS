@@ -432,3 +432,4 @@
 - 2021-06-03 — feat(auth): implement OAuth2 authentication for improved security
 - 2021-06-07 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2021-06-08 — feat(auth): implement OAuth2 login for enhanced security options
+- 2021-06-14 — feat(auth): integrate OAuth2 login for improved user authentication
