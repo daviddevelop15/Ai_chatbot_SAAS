@@ -455,3 +455,4 @@
 - 2021-08-02 — feat(auth): implement OAuth 2.0 support for tenant authentication
 - 2021-08-06 — feat(auth): implement OAuth 2.0 support for third-party logins
 - 2021-08-09 — feat(auth): integrate OAuth for improved user authentication flow
+- 2021-08-10 — feat(auth): implement OAuth2 support for enhanced user authentication
