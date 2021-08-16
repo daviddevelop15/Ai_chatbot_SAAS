@@ -457,3 +457,4 @@
 - 2021-08-09 — feat(auth): integrate OAuth for improved user authentication flow
 - 2021-08-10 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2021-08-11 — feat(auth): implement OAuth 2.0 for improved user authentication flow
+- 2021-08-16 — feat(auth): implement OAuth 2.0 support for enhanced user login options
