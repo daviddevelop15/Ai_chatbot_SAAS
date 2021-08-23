@@ -459,3 +459,4 @@
 - 2021-08-11 — feat(auth): implement OAuth 2.0 for improved user authentication flow
 - 2021-08-16 — feat(auth): implement OAuth 2.0 support for enhanced user login options
 - 2021-08-18 — feat(auth): implement JWT-based authentication for user sessions
+- 2021-08-23 — feat(auth): implement OAuth2.0 support for third-party logins
