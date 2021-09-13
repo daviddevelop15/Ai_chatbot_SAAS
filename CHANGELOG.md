@@ -466,3 +466,4 @@
 - 2021-09-01 — feat(auth): implement OAuth 2.0 for improved user authentication flow
 - 2021-09-07 — feat(auth): implement OAuth2 support for third-party logins
 - 2021-09-09 — feat(auth): implement OAuth 2.0 support for enhanced user login options
+- 2021-09-13 — feat(admin-dashboard): add user activity logs for better monitoring
