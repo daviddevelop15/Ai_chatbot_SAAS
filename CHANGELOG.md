@@ -469,3 +469,4 @@
 - 2021-09-13 — feat(admin-dashboard): add user activity logs for better monitoring
 - 2021-09-14 — feat: add conversation analytics dashboard for better user insights
 - 2021-09-21 — feat(auth): implement OAuth2 support for user authentication flow
+- 2021-09-22 — feat(auth): implement OAuth 2.0 for enhanced user authentication flow
