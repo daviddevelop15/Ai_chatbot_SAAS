@@ -478,3 +478,4 @@
 - 2021-10-06 — feat(chat): implement real-time messaging for improved user experience
 - 2021-10-14 — feat(auth): implement OAuth2 authentication for improved security
 - 2021-10-15 — feat(auth): implement OAuth2 support for enhanced user login experience
+- 2021-10-19 — feat(auth): implement OAuth2 integration for third-party logins
