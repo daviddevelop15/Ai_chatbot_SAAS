@@ -496,3 +496,4 @@
 - 2021-12-03 — feat(auth): implement JWT authentication for enhanced security measures
 - 2021-12-07 — feat(auth): implement OAuth2 support for third-party logins
 - 2021-12-08 — feat(conversations): implement tagging system for better conversation management
+- 2021-12-10 — feat(auth): implement OAuth2 login for improved user authentication
