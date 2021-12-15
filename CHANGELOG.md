@@ -498,3 +498,4 @@
 - 2021-12-08 — feat(conversations): implement tagging system for better conversation management
 - 2021-12-10 — feat(auth): implement OAuth2 login for improved user authentication
 - 2021-12-13 — feat(auth): implement OAuth2 authentication for enhanced security
+- 2021-12-15 — feat(auth): implement password reset functionality for users
