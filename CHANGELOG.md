@@ -500,3 +500,4 @@
 - 2021-12-13 — feat(auth): implement OAuth2 authentication for enhanced security
 - 2021-12-15 — feat(auth): implement password reset functionality for users
 - 2021-12-21 — feat(auth): implement OAuth2 support for improved user authentication
+- 2021-12-23 — feat(auth): implement OAuth2 support for improved security options
