@@ -504,3 +504,4 @@
 - 2021-12-27 — feat(auth): implement OAuth2 login for improved user authentication
 - 2021-12-28 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2021-12-29 — feat(auth): implement OAuth2 support for user login and registration
+- 2022-01-06 — feat(auth): add Google OAuth support for improved user sign-in options
