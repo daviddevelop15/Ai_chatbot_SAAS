@@ -507,3 +507,4 @@
 - 2022-01-06 — feat(auth): add Google OAuth support for improved user sign-in options
 - 2022-01-07 — feat(auth): implement OAuth support for third-party logins
 - 2022-01-10 — feat(conversations): add conversation tagging feature for better management
+- 2022-01-12 — feat(auth): implement OAuth2 support for enhanced user authentication
