@@ -510,3 +510,4 @@
 - 2022-01-12 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2022-01-13 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2022-01-17 — feat(conversation): add new analytics dashboard for user interactions
+- 2022-01-20 — feat(auth): implement OAuth 2.0 for enhanced user authentication flow
