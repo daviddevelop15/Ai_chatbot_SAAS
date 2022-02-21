@@ -521,3 +521,4 @@
 - 2022-02-10 — feat(auth): implement OAuth2 support for third-party login options
 - 2022-02-15 — feat(auth): implement OAuth 2.0 for enhanced user authentication flow
 - 2022-02-17 — feat(auth): implement OAuth 2.0 for improved user authentication flow
+- 2022-02-21 — feat(billing): implement new subscription model for enhanced tenant management
