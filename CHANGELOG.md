@@ -529,3 +529,4 @@
 - 2022-03-08 — feat(auth): implement OAuth 2.0 for enhanced user authentication
 - 2022-03-10 — feat(auth): implement OAuth2 support for third-party integrations
 - 2022-03-11 — feat(admin-dashboard): add user engagement metrics to analytics view
+- 2022-03-14 — feat(auth): implement OAuth2 login for improved user authentication
