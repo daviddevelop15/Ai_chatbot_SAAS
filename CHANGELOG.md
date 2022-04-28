@@ -547,3 +547,4 @@
 - 2022-04-21 — feat(auth): implement two-factor authentication for added security
 - 2022-04-22 — feat(auth): implement OAuth 2.0 for improved user authentication flow
 - 2022-04-26 — feat: add user role management for enhanced security in admin dashboard
+- 2022-04-28 — feat(auth): implement OAuth2 login for improved user authentication
