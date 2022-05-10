@@ -550,3 +550,4 @@
 - 2022-04-28 — feat(auth): implement OAuth2 login for improved user authentication
 - 2022-05-02 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2022-05-03 — feat(auth): implement OAuth2 support for enhanced user authentication
+- 2022-05-10 — feat(auth): implement OAuth 2.0 support for third-party logins
