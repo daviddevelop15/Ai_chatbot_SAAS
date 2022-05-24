@@ -554,3 +554,4 @@
 - 2022-05-13 — feat(auth): implement single sign-on for improved user experience
 - 2022-05-16 — feat(auth): implement OAuth2 integration for enhanced user auth flow
 - 2022-05-20 — feat(chat): add user role management for enhanced access control
+- 2022-05-24 — feat(auth): implement OAuth2 support for third-party integrations
