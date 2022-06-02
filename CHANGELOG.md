@@ -558,3 +558,4 @@
 - 2022-05-26 — feat(auth): implement OAuth2 support for third-party logins
 - 2022-05-30 — feat(auth): implement OAuth2 integration for third-party login options
 - 2022-06-01 — feat(auth): implement OAuth 2.0 support for enhanced user login options
+- 2022-06-02 — feat(auth): implement OAuth 2.0 support for third-party logins
