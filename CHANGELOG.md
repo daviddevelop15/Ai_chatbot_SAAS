@@ -562,3 +562,4 @@
 - 2022-06-09 — feat(auth): implement OAuth2 support for third-party logins
 - 2022-06-10 — feat: add user role management to enhance admin dashboard functionality
 - 2022-06-13 — feat(auth): implement OAuth2 support for third-party login options
+- 2022-06-14 — feat(auth): implement OAuth2 integration for improved user sign-in
