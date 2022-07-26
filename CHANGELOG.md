@@ -578,3 +578,4 @@
 - 2022-07-18 — feat(auth): implement OAuth2.0 support for enhanced security options
 - 2022-07-19 — feat(auth): implement multi-factor authentication for user accounts
 - 2022-07-20 — feat(auth): integrate OAuth2 for enhanced user authentication options
+- 2022-07-26 — feat(auth): implement OAuth2 support for third-party logins
