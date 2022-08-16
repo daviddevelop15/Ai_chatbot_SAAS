@@ -584,3 +584,4 @@
 - 2022-08-05 — feat(auth): implement OAuth2.0 support for enhanced user security
 - 2022-08-09 — feat(auth): implement OAuth 2.0 support for user authentication
 - 2022-08-12 — feat: add user-friendly onboarding flow for new tenants in chatbot SaaS
+- 2022-08-16 — feat(auth): implement OAuth 2.0 for improved authentication flow
