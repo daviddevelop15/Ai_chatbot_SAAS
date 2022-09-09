@@ -591,3 +591,4 @@
 - 2022-08-29 — feat(auth): implement OAuth2 for external login options in the platform
 - 2022-09-02 — feat(auth): implement OAuth2 login for improved user authentication flow
 - 2022-09-08 — feat(auth): implement OAuth2 support for enhanced user authentication
+- 2022-09-09 — feat(auth): implement password reset functionality for users
