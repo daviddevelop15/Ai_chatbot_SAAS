@@ -594,3 +594,4 @@
 - 2022-09-09 — feat(auth): implement password reset functionality for users
 - 2022-09-13 — feat(auth): implement OAuth2 login for enhanced user authentication
 - 2022-09-15 — feat(auth): implement OAuth2 login for enhanced user authentication
+- 2022-09-16 — feat(auth): add MFA support for enhanced security during sign-in
