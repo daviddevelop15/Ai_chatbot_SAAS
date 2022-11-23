@@ -618,3 +618,4 @@
 - 2022-11-15 — feat(auth): implement OAuth 2.0 login for improved user authentication
 - 2022-11-16 — feat(billing): implement subscription tier management for tenants
 - 2022-11-17 — feat(auth): implement OAuth 2.0 support for enhanced user security
+- 2022-11-23 — feat(auth): implement OAuth2 integration for third-party logins
