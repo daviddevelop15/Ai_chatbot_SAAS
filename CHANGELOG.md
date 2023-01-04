@@ -633,3 +633,4 @@
 - 2022-12-28 — feat(auth): implement OAuth2 login for improved user authentication
 - 2022-12-29 — feat(auth): implement OAuth2 login for improved user authentication
 - 2023-01-03 — feat(auth): implement OAuth2 support for improved user authentication
+- 2023-01-04 — feat(billing): integrate Stripe for subscription management and invoicing
