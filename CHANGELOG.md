@@ -636,3 +636,4 @@
 - 2023-01-04 — feat(billing): integrate Stripe for subscription management and invoicing
 - 2023-01-10 — feat(auth): implement OAuth2 support for third-party logins
 - 2023-01-11 — feat(auth): implement OAuth2 support for third-party login options
+- 2023-01-17 — feat: add conversation analytics dashboard for tenant insights
