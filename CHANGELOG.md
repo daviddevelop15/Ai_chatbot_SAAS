@@ -638,3 +638,4 @@
 - 2023-01-11 — feat(auth): implement OAuth2 support for third-party login options
 - 2023-01-17 — feat: add conversation analytics dashboard for tenant insights
 - 2023-01-20 — feat(auth): integrate OAuth2 provider for enhanced user authentication
+- 2023-01-24 — feat(auth): implement OAuth2 support for third-party logins
