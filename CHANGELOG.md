@@ -642,3 +642,4 @@
 - 2023-01-26 — feat(auth): implement passwordless login for improved user experience
 - 2023-01-31 — feat(auth): implement OAuth 2.0 for third-party authentication support
 - 2023-02-03 — feat(auth): implement OAuth2 login for enhanced user authentication
+- 2023-02-06 — feat(auth): implement OAuth2 login for enhanced user authentication
