@@ -644,3 +644,4 @@
 - 2023-02-03 — feat(auth): implement OAuth2 login for enhanced user authentication
 - 2023-02-06 — feat(auth): implement OAuth2 login for enhanced user authentication
 - 2023-02-08 — feat(auth): implement OAuth2 login for improved user authentication
+- 2023-02-10 — feat(auth): implement OAuth2 support for third-party logins
