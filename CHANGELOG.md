@@ -652,3 +652,4 @@
 - 2023-02-22 — feat(conversation): add support for custom user intents in chat flow
 - 2023-02-28 — feat(auth): implement OAuth2 authentication for enhanced security
 - 2023-03-01 — feat(chatbot): integrate new NLP model for improved response accuracy
+- 2023-03-03 — feat(auth): implement OAuth2 integration for enhanced user security
