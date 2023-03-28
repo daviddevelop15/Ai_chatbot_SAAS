@@ -660,3 +660,4 @@
 - 2023-03-15 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2023-03-21 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2023-03-24 — feat: add multi-tenant support for chatbot conversation history retrieval
+- 2023-03-28 — feat(billing): implement usage-based billing model for tenants
