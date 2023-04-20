@@ -671,3 +671,4 @@
 - 2023-04-14 — feat(auth): implement OAuth2 login for improved user authentication
 - 2023-04-17 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2023-04-19 — feat(auth): implement multi-factor authentication for improved security
+- 2023-04-20 — feat(auth): implement OAuth2 login for enhanced user security
