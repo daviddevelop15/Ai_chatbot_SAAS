@@ -675,3 +675,4 @@
 - 2023-04-25 — feat(chat): add user segmentation for personalized conversation experiences
 - 2023-04-27 — feat(auth): implement OAuth2 support for enhanced user authentication
 - 2023-04-28 — feat(auth): implement OAuth2 support for third-party login options
+- 2023-05-01 — feat(billing): implement subscription plans for premium users
