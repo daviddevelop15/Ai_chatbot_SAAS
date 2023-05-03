@@ -677,3 +677,4 @@
 - 2023-04-28 — feat(auth): implement OAuth2 support for third-party login options
 - 2023-05-01 — feat(billing): implement subscription plans for premium users
 - 2023-05-02 — feat(auth): implement OAuth2 login for enhanced user authentication
+- 2023-05-03 — feat(auth): implement OAuth 2.0 support for user authentication flow
