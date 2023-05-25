@@ -683,3 +683,4 @@
 - 2023-05-15 — feat(auth): implement two-factor authentication for enhanced security
 - 2023-05-17 — feat(conversation): implement keyword filtering for user messages
 - 2023-05-22 — feat(auth): implement OAuth2 support for third-party logins
+- 2023-05-25 — feat(auth): implement OAuth2 support for third-party login options
