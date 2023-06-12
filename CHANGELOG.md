@@ -691,3 +691,4 @@
 - 2023-06-07 — feat(auth): implement OAuth2 login for enhanced user authentication
 - 2023-06-08 — feat(auth): implement multi-tenancy support for user authentication
 - 2023-06-09 — feat(auth): implement OAuth2 support for third-party logins
+- 2023-06-12 — feat(auth): implement OAuth2 support for third-party logins
