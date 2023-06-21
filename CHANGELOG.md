@@ -693,3 +693,4 @@
 - 2023-06-09 — feat(auth): implement OAuth2 support for third-party logins
 - 2023-06-12 — feat(auth): implement OAuth2 support for third-party logins
 - 2023-06-15 — feat(auth): integrate Google OAuth for improved user authentication
+- 2023-06-21 — feat(auth): implement OAuth 2.0 for improved user authentication flow
