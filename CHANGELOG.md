@@ -703,3 +703,4 @@
 - 2023-07-07 — feat(conversations): add conversation tagging feature for better organization
 - 2023-07-12 — feat(auth): implement OAuth2 authentication for improved security
 - 2023-07-13 — feat(auth): implement OAuth2 support for improved user authentication
+- 2023-07-17 — feat(auth): implement OAuth2 support for third-party logins
