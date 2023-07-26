@@ -706,3 +706,4 @@
 - 2023-07-17 — feat(auth): implement OAuth2 support for third-party logins
 - 2023-07-21 — feat(auth): add OAuth2 support for third-party login options
 - 2023-07-24 — feat(auth): add OAuth2 support for third-party integrations
+- 2023-07-26 — feat(auth): implement OAuth2 support for third-party login options
