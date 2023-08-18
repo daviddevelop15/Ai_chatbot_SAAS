@@ -713,3 +713,4 @@
 - 2023-08-10 — feat(auth): implement OAuth2 support for improved user authentication
 - 2023-08-11 — feat(auth): implement OAuth 2.0 support for user authentication
 - 2023-08-17 — feat(auth): implement passwordless login option for improved UX
+- 2023-08-18 — feat(auth): implement OAuth2 support for third-party integrations
