@@ -714,3 +714,4 @@
 - 2023-08-11 — feat(auth): implement OAuth 2.0 support for user authentication
 - 2023-08-17 — feat(auth): implement passwordless login option for improved UX
 - 2023-08-18 — feat(auth): implement OAuth2 support for third-party integrations
+- 2023-08-21 — feat: add multi-language support for chatbots in tenant settings
