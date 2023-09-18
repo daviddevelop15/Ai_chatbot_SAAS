@@ -723,3 +723,4 @@
 - 2023-09-08 — feat(billing): add tiered pricing model for premium chatbot features
 - 2023-09-13 — feat(auth): integrate OAuth2 support for third-party logins
 - 2023-09-15 — feat(auth): implement OAuth2 login for enhanced security options
+- 2023-09-18 — feat(auth): implement OAuth2 support for third-party integrations
