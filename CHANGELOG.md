@@ -726,3 +726,4 @@
 - 2023-09-18 — feat(auth): implement OAuth2 support for third-party integrations
 - 2023-09-19 — feat(auth): implement OAuth 2.0 support for third-party logins
 - 2023-09-25 — feat(auth): implement OAuth2 login for improved user authentication
+- 2023-09-28 — feat(auth): implement OAuth2 support for third-party integrations
