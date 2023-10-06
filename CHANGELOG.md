@@ -730,3 +730,4 @@
 - 2023-09-29 — feat(auth): implement OAuth2 for improved user authentication process
 - 2023-10-02 — feat(auth): implement OAuth2 for enhanced user authentication flow
 - 2023-10-05 — feat(auth): implement OAuth2.0 login for enhanced security options
+- 2023-10-06 — feat(auth): implement OAuth 2.0 support for enhanced login options
